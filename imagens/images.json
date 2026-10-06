@@ -1,0 +1,17 @@
+[
+  {
+    "src": "imagens/residencial/projeto-01.jpg",
+    "title": "Estar",
+    "category": "residencial"
+  },
+  {
+    "src": "imagens/residencial/projeto-02.jpg",
+    "title": "Cozinha",
+    "category": "residencial"
+  },
+  {
+    "src": "imagens/residencial/projeto-03.jpg",
+    "title": "Cozinha",
+    "category": "residencial"
+  }
+]
